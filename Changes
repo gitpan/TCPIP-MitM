@@ -1,0 +1,8 @@
+Revision history for TCPIP-MitM
+
+2013-04-06 Version 0.01_02
+  Renamed Tap to MitM
+  Directory of sample files added.
+
+2013-04-01 Version 0.01_01
+  Core functionality present and a basic test suite.
